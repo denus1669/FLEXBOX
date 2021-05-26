@@ -1,0 +1,43 @@
+.select {
+    background-color: #750c0c;
+    transform: scale(1.6);
+    color: white;
+    margin-top: 20px;
+}
+
+.select a {
+    color: white;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.f-text {
+    font-size: 20px;
+    color: #9A1212;
+}
+
+.comp-content {
+    position: relative;
+    width: 80vw;
+    height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+.comp-text {
+    padding-left: 150px;
+    font-size: 32px;
+    text-align: right;
+}
+
+.comp-img {
+    position: absolute;
+    left: 160px;
+    top: 70px;
+    width: 15%;
+}
